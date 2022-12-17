@@ -1,0 +1,70 @@
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
+}
+.lien{
+    color: red;
+    text-align: right;
+    text-transform: uppercase;
+}
+img{
+    width: 250px;
+    position: none;
+    border-radius: 100px;
+    border-style: double;
+    border-color: black;
+}
+.name{
+    color: brown;
+}
+.email{
+    text-decoration-line: underline;
+}.eco{
+    color: brown;
+text-decoration-line: underline;
+text-align: center;
+}
+.eco11{
+    text-decoration-line: underline;
+}
+.eco22{
+    text-decoration-line: underline;
+}
+.comp{
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.ci{
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.exp{
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.form{
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.di{
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.di11{
+    text-decoration-line: underline;
+}
+.di22{
+    text-decoration-line: underline;
+}
+.di33{
+    text-decoration-line: underline;
+}
+.di44{
+    text-decoration-line: underline;
+}
